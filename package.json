@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "telegraf-create-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node telegraf-create-bot.js"
+  },
+  "author": "NataNet",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.27.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NataliiaSoroka/telegram-bot"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ]
+}
